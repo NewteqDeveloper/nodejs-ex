@@ -1,3 +1,6 @@
+# Migrated
+This fork has moved to: https://codeberg.org/newteq_github_archives/sample-openshift-nodejs
+
 # Original Author
 This was originally forked on this GitHub repo: [https://github.com/RubenVermeulen/generate-trusted-ssl-certificate](https://github.com/sclorg/nodejs-ex)
 
