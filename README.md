@@ -1,14 +1,3 @@
-# Original Author
-This was originally forked on this GitHub repo: [https://github.com/sclorg/nodejs-ex](https://github.com/sclorg/nodejs-ex)
-
-## No license from original
-The original author did not provide a license for this work.
-
-Based on what this does, I added the GNU AGPL3 license for everyone to use.
-
-## Disclaimer ⚠️
-Should the original author wish for me to remove this, please contact me on [github@newteq.co.za](mailto:github@newteq.co.za)
-
 # Original README
 
 ![Node.js CI](https://github.com/nodeshift-starters/nodejs-rest-http-crud/workflows/ci/badge.svg)
